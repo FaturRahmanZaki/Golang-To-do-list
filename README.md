@@ -1,6 +1,6 @@
 # 📝 Aplikasi To-Do List
 
-![Go](https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1.23.4%2B-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-v2.50.0-00A3E0?style=flat-square&logo=go&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-latest-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Included-333?style=flat-square)
