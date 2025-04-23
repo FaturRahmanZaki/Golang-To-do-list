@@ -99,7 +99,3 @@ Kontribusi selalu disambut! Buka issue atau ajukan pull request untuk meningkatk
 Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail.
 
 ---
-
-<div align="center">
-  <sub>Built with ❤️ in Indonesia</sub>
-</div> 
