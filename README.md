@@ -8,7 +8,7 @@
 
 Aplikasi manajemen tugas sederhana tetapi kuat yang dibangun menggunakan Go dengan framework Fiber dan Tailwind CSS untuk tampilan modern dan responsif.
 
-![Aplikasi Todo List Preview](https://via.placeholder.com/800x400?text=Aplikasi+Todo+List+dengan+Go+dan+Tailwind)
+![Aplikasi Todo List Preview](public/img/image.png)
 
 ## ✨ Fitur
 
@@ -90,6 +90,8 @@ Kontribusi selalu disambut! Buka issue atau ajukan pull request untuk meningkatk
 </a>
 
 **Fatur Rahman Zaki**
+![Aplikasi Todo List Preview](https://via.placeholder.com/800x400?text=Aplikasi+Todo+List+dengan+Go+dan+Tailwind)
+![Aplikasi Todo List Preview](https://via.placeholder.com/800x400?text=Aplikasi+Todo+List+dengan+Go+dan+Tailwind)
 
 - GitHub: [@FaturRahmanZaki](https://github.com/FaturRahmanZaki)
 - Instagram: [@ftrrahmanzk](https://instagram.com/ftrrahmanzk)
